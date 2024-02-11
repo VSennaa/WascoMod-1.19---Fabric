@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "id": "wascomod",
+  "version": "${version}",
+
+  "name": "Wasco Mod",
+  "description": "Wasco Apenas",
+  "authors": [
+    "VSenna"
+  ],
+  "contact": {
+    "homepage": "",
+    "sources": ""
+  },
+
+  "license": "MIT",
+  "icon": "assets/modid/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.vsenna.wascomod.WascoMod"
+    ],
+    "client": [
+      "net.vsenna.wascomod.WascoModClient"
+    ]
+  },
+  "mixins": [
+    "wascomod.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.14.19",
+    "fabric-api": "*",
+    "minecraft": "~1.19.4",
+    "java": ">=17"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}
