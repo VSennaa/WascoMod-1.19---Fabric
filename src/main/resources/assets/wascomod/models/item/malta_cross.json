@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "WascoMod:item/malta_cross"
+    "layer0": "wascomod:item/malta_cross"
   }
 }
