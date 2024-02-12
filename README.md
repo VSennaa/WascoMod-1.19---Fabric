@@ -1,0 +1,1 @@
+Mod criado apenas para fins recreativos, sei lá, eu tava atoa de férias e resolvi estudar mod dev, então fiz, credito isso basicamente a equipe do FabricShieldLib, todo o trabalho de implementação de escudos é deles, bascimente.
