@@ -1,7 +1,7 @@
 {
-  "parent":"fabricshieldlib:item/fabric_shield",
+  "parent":"item/generated",
   "textures":{
-    "shield":"wascomod:item/wasco_shield"
+    "layer0":"wascomod:item/wasco_shield"
   },
   "overrides": [
     {
